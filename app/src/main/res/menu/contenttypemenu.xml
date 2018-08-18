@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="科研成果"
+        android:id="@+id/technology">
+    </item>
+    <item
+        android:title="课本教材"
+        android:id="@+id/classbooks">
+    </item>
+    <item
+        android:title="试卷解析"
+        android:id="@+id/paperanalyze">
+    </item>
+    <item
+        android:title="大赛解析"
+        android:id="@+id/raceanalyze">
+    </item>
+    <item
+        android:title="技术发展"
+        android:id="@+id/technologydevelop">
+    </item>
+</menu>

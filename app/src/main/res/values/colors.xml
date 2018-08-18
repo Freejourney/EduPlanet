@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray">#EAEAEA</color>
+    <color name="mask_color">#D1D1D1</color>
+    <color name="drop_down_selected">#CD00CD</color>
+    <color name="drop_down_unselected">#050505</color>
+    <color name="white">#FFFFFF</color>
+    <color name="un_press_color">#FFFFFF</color>
+    <color name="check_bg">#F7F7F7</color>
+</resources>

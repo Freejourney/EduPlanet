@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="计算机学院"
+        android:id="@+id/cs_insti">
+    </item>
+    <item
+        android:title="艺术设计学院"
+        android:id="@+id/AD_insti">
+    </item>
+    <item
+        android:title="土建学院"
+        android:id="@+id/building_insti">
+    </item>
+    <item
+        android:title="生工学院"
+        android:id="@+id/bio_inist">
+    </item>
+</menu>

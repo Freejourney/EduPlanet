@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="vertical"
+    android:background="#eee">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="37dp"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="3dp"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:layout_weight="1">
+            <TextView
+                android:id="@+id/tv_mainpage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#008000"
+                android:gravity="center"
+                android:text="首页"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="3dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center">
+            <TextView
+                android:id="@+id/tv_sortpage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="分类"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="3dp"
+            android:gravity="center"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+            <TextView
+                android:id="@+id/tv_findpage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="动态"/>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
